@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>BLOSSOM BOX CO</title>
+    <link>https://www.blossomboxco.com.au</link>
+    <pubDate>Wed, 11 May 2016 14:28:12 +0000</pubDate>
+    <description>ADELAIDE'S LUXURY BOUTIQUE FLORIST</description>
+    <language>en-AU</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>839238475</wp:author_id>
+      <wp:author_login>hello@blossomboxco.com.au</wp:author_login>
+      <wp:author_email>hello@blossomboxco.com.au</wp:author_email>
+      <wp:author_display_name><![CDATA[trinh nguyen]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[trinh]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[nguyen]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[E-commerce - null]]></wp:cat_name>
+      <wp:category_nicename>E-commerce-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/contact</link>
+      <title>Get In Touch</title>
+      <pubDate>Wed, 18 Jul 2018 12:37:03 +0000</pubDate>
+      <content:encoded><![CDATA[<h2 class="text-align-center">Contact us</h2><p class="text-align-center">Please call for any enquiries during business hours. Alternatively you can fill out this online form but please allow us 24-48 hours to get back to you.</p><p class="text-align-center">p: 08 7226 5567</p><p class="text-align-center">e: <a target="_blank" href="mailto: hello@blossomboxco.com.au">hello@blossomboxco.com.au</a></p><p class="text-align-center">a: Shop 2, 112 Prospect Rd, Prospect SA 5082</p><p class="text-align-center"> </p><p style="margin-left:40px"> </p>
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="573351b91d07c0d298ee3dcf"
+       autocomplete="on"
+       
+       method="POST"
+       action="https://blossomboxco.squarespace.com"
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '573351b91d07c0d298ee3dcf',
+      collectionId: '',
+      objectName: 'page-573351b91d07c0d298ee3dcd'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name1" class="form-item fields name required">
+              <div class="title">Name <span class="required">*</span></div>
+              <legend>Name</legend>
+              
+                <div class="field first-name">
+                  <label class="caption"><input class="field-element field-control" name="fname"
+                  x-autocompletetype="given-name" type="text"
+                  spellcheck="false"
+                  maxlength="30"
+                  data-title="First" />
+                  First Name</label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption"><input class="field-element field-control" name="lname"
+                  x-autocompletetype="surname" type="text"
+                  spellcheck="false" maxlength="30" data-title="Last" />
+                  Last Name</label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="phone-yui_3_17_2_1_1462980303733_69718" class="form-item fields phone required">
+              <div class="title">Phone <span class="required">*</span></div>
+              <legend>Phone</legend>
+              
+                
+                <div class="field text three-digits">
+                  <label class="caption"><input class="field-element" x-autocompletetype="phone-area-code" type="text"
+                  maxlength="3" data-title="Areacode" />
+                  (###)</label>
+                </div>
+                <div class="field text three-digits">
+                  <label class="caption"><input class="field-element" x-autocompletetype="phone-local-prefix" type="text"
+                  maxlength="3" data-title="Prefix" />
+                  ###</label>
+                </div>
+                <div class="field text four-digits">
+                  <label class="caption"><input class="field-element" x-autocompletetype="phone-local-suffix" type="text"
+                  maxlength="4" data-title="Line" />
+                  ####</label>
+                </div>
+              </fieldset>
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email2" class="form-item field email required">
+                <label class="title" for="email2-field">Email Address <span class="required">*</span></label>
+                
+                <input class="field-element" name="email" x-autocompletetype="email" type="text" spellcheck="false" id="email2-field" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+              <div id="text3" class="form-item field text required">
+                <label class="title" for="text3-field">Subject <span class="required">*</span></label>
+                
+                <input class="field-element text" type="text" id="text3-field" />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea4" class="form-item field textarea required">
+                <label class="title" for="textarea4-field">Message <span class="required">*</span></label>
+                
+                <textarea class="field-element " id="textarea4-field" ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div class="form-button-wrapper form-button-wrapper--align-left">
+        <input class="button sqs-system-button sqs-editable-button" type="submit" value="Submit"/>
+      </div>
+      
+
+      
+
+      <div class="hidden form-submission-text">Thank you!</div>
+
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+
+  </div>
+
+</div>]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>Deluxe Range</title>
+      <link>/deluxerange</link>
+      <pubDate>Sun, 22 May 2016 03:50:38 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573355aaf699bbef1cce7271/5733578ee707eb22d69498cc/1463889038232/thumbnail_IMG_4642.jpg" /><img src="http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573355aaf699bbef1cce7271/57335786e707eb22d6949856/1463889006091/thumbnail_IMG_4630.jpg" /><img src="http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573355aaf699bbef1cce7271/573356022eeb815079e0b7ad/1463888921910/thumbnail_IMG_0069.jpg" /></div>]]></content:encoded>
+      <wp:post_name>deluxerange</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573355aaf699bbef1cce7271/5733578ee707eb22d69498cc/1463889038232/thumbnail_IMG_4642.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573355aaf699bbef1cce7271/5733578ee707eb22d69498cc/1463889038232/thumbnail_IMG_4642.jpg</link>
+      <title>attachment-5733578ee707eb22d69498cc</title>
+      <wp:post_name>thumbnail-IMG-4642-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:post_parent>1</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5733578ee707eb22d69498cc]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5733578ee707eb22d69498cc]]></excerpt:encoded>
+      <pubDate>Wed, 11 May 2016 16:02:22 +0000</pubDate>
+      <wp:post_date>2016-05-11 16:02:22</wp:post_date>
+      <wp:post_date_gmt>2016-05-11 16:02:22</wp:post_date_gmt>
+      <dc:creator>hello@blossomboxco.com.au</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573355aaf699bbef1cce7271/57335786e707eb22d6949856/1463889006091/thumbnail_IMG_4630.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573355aaf699bbef1cce7271/57335786e707eb22d6949856/1463889006091/thumbnail_IMG_4630.jpg</link>
+      <title>attachment-57335786e707eb22d6949856</title>
+      <wp:post_name>thumbnail-IMG-4630-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:post_parent>1</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-57335786e707eb22d6949856]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-57335786e707eb22d6949856]]></excerpt:encoded>
+      <pubDate>Wed, 11 May 2016 16:02:14 +0000</pubDate>
+      <wp:post_date>2016-05-11 16:02:14</wp:post_date>
+      <wp:post_date_gmt>2016-05-11 16:02:14</wp:post_date_gmt>
+      <dc:creator>hello@blossomboxco.com.au</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573355aaf699bbef1cce7271/573356022eeb815079e0b7ad/1463888921910/thumbnail_IMG_0069.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573355aaf699bbef1cce7271/573356022eeb815079e0b7ad/1463888921910/thumbnail_IMG_0069.jpg</link>
+      <title>attachment-573356022eeb815079e0b7ad</title>
+      <wp:post_name>thumbnail-IMG-0069-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:post_parent>1</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-573356022eeb815079e0b7ad]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-573356022eeb815079e0b7ad]]></excerpt:encoded>
+      <pubDate>Wed, 11 May 2016 15:55:46 +0000</pubDate>
+      <wp:post_date>2016-05-11 15:55:46</wp:post_date>
+      <wp:post_date_gmt>2016-05-11 15:55:46</wp:post_date_gmt>
+      <dc:creator>hello@blossomboxco.com.au</dc:creator>
+    </item>
+    <item>
+      <title>Gifts</title>
+      <link>/cid-tolkien</link>
+      <pubDate>Sun, 17 Jul 2016 20:09:28 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573358f78a65e23b74bbdbb5/578be5b8e58c62ac6497dbfb/1468786163382/IMG_0788.JPG" /><img src="http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573358f78a65e23b74bbdbb5/5733591f45bf21685c058e2c/1462982948995/thumbnail_IMG_0075.jpg" /></div>]]></content:encoded>
+      <wp:post_name>cid-tolkien</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573358f78a65e23b74bbdbb5/578be5b8e58c62ac6497dbfb/1468786163382/IMG_0788.JPG</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573358f78a65e23b74bbdbb5/578be5b8e58c62ac6497dbfb/1468786163382/IMG_0788.JPG</link>
+      <title>attachment-578be5b8e58c62ac6497dbfb</title>
+      <wp:post_name>IMG-0788-JPG</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-578be5b8e58c62ac6497dbfb]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-578be5b8e58c62ac6497dbfb]]></excerpt:encoded>
+      <pubDate>Sun, 17 Jul 2016 20:08:24 +0000</pubDate>
+      <wp:post_date>2016-07-17 20:08:24</wp:post_date>
+      <wp:post_date_gmt>2016-07-17 20:08:24</wp:post_date_gmt>
+      <dc:creator>hello@blossomboxco.com.au</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573358f78a65e23b74bbdbb5/5733591f45bf21685c058e2c/1462982948995/thumbnail_IMG_0075.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573358f78a65e23b74bbdbb5/5733591f45bf21685c058e2c/1462982948995/thumbnail_IMG_0075.jpg</link>
+      <title>attachment-5733591f45bf21685c058e2c</title>
+      <wp:post_name>thumbnail-IMG-0075-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>7</wp:post_id>
+      <wp:post_parent>5</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5733591f45bf21685c058e2c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5733591f45bf21685c058e2c]]></excerpt:encoded>
+      <pubDate>Wed, 11 May 2016 16:09:03 +0000</pubDate>
+      <wp:post_date>2016-05-11 16:09:03</wp:post_date>
+      <wp:post_date_gmt>2016-05-11 16:09:03</wp:post_date_gmt>
+      <dc:creator>hello@blossomboxco.com.au</dc:creator>
+    </item>
+    <item>
+      <title>Preserved Rose Range</title>
+      <link>/preserved-rose-range</link>
+      <pubDate>Sun, 22 May 2016 05:03:03 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573806a92b8ddea91236ded6/5738098a60b5e9135442e09b/1463889124727/thumbnail_FullSizeRender.jpg" /><img src="http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573806a92b8ddea91236ded6/573809878259b53089b7f83a/1463893383511/thumbnail_IMG_0091.jpg" /></div>]]></content:encoded>
+      <wp:post_name>preserved-rose-range</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>8</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573806a92b8ddea91236ded6/5738098a60b5e9135442e09b/1463889124727/thumbnail_FullSizeRender.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573806a92b8ddea91236ded6/5738098a60b5e9135442e09b/1463889124727/thumbnail_FullSizeRender.jpg</link>
+      <title>attachment-5738098a60b5e9135442e09b</title>
+      <wp:post_name>thumbnail-FullSizeRender-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>9</wp:post_id>
+      <wp:post_parent>8</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5738098a60b5e9135442e09b]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5738098a60b5e9135442e09b]]></excerpt:encoded>
+      <pubDate>Sun, 15 May 2016 05:30:50 +0000</pubDate>
+      <wp:post_date>2016-05-15 05:30:50</wp:post_date>
+      <wp:post_date_gmt>2016-05-15 05:30:50</wp:post_date_gmt>
+      <dc:creator>hello@blossomboxco.com.au</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573806a92b8ddea91236ded6/573809878259b53089b7f83a/1463893383511/thumbnail_IMG_0091.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/573806a92b8ddea91236ded6/573809878259b53089b7f83a/1463893383511/thumbnail_IMG_0091.jpg</link>
+      <title>attachment-573809878259b53089b7f83a</title>
+      <wp:post_name>thumbnail-IMG-0091-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>10</wp:post_id>
+      <wp:post_parent>8</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-573809878259b53089b7f83a]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-573809878259b53089b7f83a]]></excerpt:encoded>
+      <pubDate>Sun, 15 May 2016 05:30:47 +0000</pubDate>
+      <wp:post_date>2016-05-15 05:30:47</wp:post_date>
+      <wp:post_date_gmt>2016-05-15 05:30:47</wp:post_date_gmt>
+      <dc:creator>hello@blossomboxco.com.au</dc:creator>
+    </item>
+    <item>
+      <link>/delivery</link>
+      <title>Delivery</title>
+      <pubDate>Thu, 19 Jul 2018 02:28:52 +0000</pubDate>
+      <content:encoded><![CDATA[<h3 class="text-align-center">Deliveries will occur between 10.00am - 5.30pm by our couriers.</h3><h3 class="text-align-center">We are unable to guarantee a specific time for deliveries unfortunately.</h3><h3 class="text-align-center"><strong>Flatrate within 25km</strong></h3><h3 class="text-align-center">Weekday delivery $17.95 &amp;&nbsp;Saturday delivery $22.95</h3><h3 dir="ltr" class="text-align-center"><strong>Deliveries over 25 up to 35km </strong></h3><h3 dir="ltr" class="text-align-center">Weekday and Saturday delivery $35.00</h3><h3 class="text-align-center">Please ensure delivery details are correct as couriers will charge for re-delivery.</h3><h3 class="text-align-center">Call us in advance on (08) 7226 5567 to arrange for any special deliveries.</h3>]]></content:encoded>
+      <wp:post_name>delivery</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>11</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/testimonials</link>
+      <title>Testimonials</title>
+      <pubDate>Sat, 20 May 2017 08:10:25 +0000</pubDate>
+      <content:encoded><![CDATA[<p class="text-align-center"><em>&nbsp;</em><strong>Julie Lovell -&nbsp;</strong><em>"Thank you Trinh, My Beautiful Daughter Bianca absolutely loved her Flower Crown for her Baby Sprinkle that you made for her yesterday. Bianca cried with love &amp; excitement when she received it! She was glowing in her Crown!!&nbsp;Thankyou for your customer service it is 100% &amp; your flowers are Devine!! Xx"&nbsp;</em></p><p class="text-align-center"><strong>Parissa Zahrooni- </strong><em>"Thank you to beautiful Trinh and her team for organising the stunning floral centrepieces yesterday for my bridal shower and also for allowing us to collect on a Sunday as I know you are normally closed then. The arrangements were exquisite and the service was outstanding"</em></p><p class="text-align-center"><strong>Mary Joanni - </strong><em>"The look on my daughter's face said it all !!! Definitely stood out from all her flower arrangements. Your warm professional service and suggestions were impeccable!<br />To have them for the year ahead to remind her of the beautiful birth of her gorgeous daughter is so special. Thank you once again will definitely see you again in the future x"</em></p><p class="text-align-center"><strong>Edina El-Youssef -&nbsp;</strong><em>"</em>Absolutely amazing flowers and what exceptional service we have received I've been in customer service management for many years and these guys get 10/10 thank you blossom box co ..."</p><p class="text-align-center"><strong>Tarek </strong>- "Without a doubt, The Best In The Business. Dedication and Customer Service is second to none.&nbsp;Great Work Guys....."</p><p class="text-align-center"><strong>Rochelle Petris - </strong><em>"What can i say Trinh, you are an absolute gem. The personalized flower box and table centre pieces were jut beyond amazing! From start to finish so responsive to messages and knew exactly what i wanted. This little flower palace you have is just amazing! I have now found my florist who i will be getting all my floral arrangements from and will be recommending everyone including my boyfriend ❤&nbsp;xxxx"</em></p><p class="text-align-center"><strong>Sara Eckert -&nbsp;</strong><em>"Trinh prepared the most beautiful bouquets, buttonholes, ceremony backdrop and reception decorations for our wedding on 31 July 2016 and we could not have been happier! She met with me a number of times to discuss ideas and was so helpful in helping me choose the right flowers and 'look' while sticking within my budget. Everything looked amazing and we had so many comments about how beautiful the flowers looked. Thank you so much Trinh!"</em></p><p class="text-align-center"><strong>Alyna Fimmel -&nbsp;</strong><em>"I can't say enough good things about Blossom Box Co. They offer a very personal service and always working with you to make sure they have a clear idea of what you want. They take time to match colours perfectly, and always give a little more than you expect. The owner never cease to show her amazing talent and it shows in the quality of her product and the care she handle each order with. This is why I always come back to order my flowers from Blossom Box Co"</em></p><p class="text-align-center"><strong>Goodlife Mitcham -</strong><em>"Thank you Blossom Box Co for your stunning Sympathy arrangement custom made for one of our dear colleagues. We couldn't believe how quick &amp;&nbsp;easy the whole process was; order placed, made to magnificence and delivered within 12 hours. Gobsmacked! We look forward to doing business with you in the future and just have to say you have a true talent; it was simply stunning. Thank you."&nbsp;</em></p><p class="text-align-center"><em><strong>Cyndi Sedecki -&nbsp;</strong>"Thank you so much for the prompt service and the beautiful flowers for my baby sister's 21st birthday. They are absolutely beautiful and you have done a truly amazing job"</em></p><p class="text-align-center"><em><strong>Adrian Bria -&nbsp;</strong>"Thank you so much for our baby boys personalised box. Exactly what we imagined. Everyone is in love with the baby blue roses. Highly recommended"</em></p><p style="text-align:center"><strong>Hong Chau -</strong><em>Thank you for the prompt response, service &amp;&nbsp;for delivering such a beautiful box of flowers within two hours of organising it all! Definitely will be ordering again"&nbsp;</em></p><p style="text-align:center"><em>&nbsp;</em><strong>Angela Constanti -&nbsp;</strong><em>"The arrangement was beautiful. You are amazing at you do, my sister absolutely loved her flowers. Thank you so very much again for the special delivery"&nbsp;</em></p><p style="text-align:center"><strong>&nbsp;</strong><strong>Bianca Dimanno -</strong><em>"Absolutely loved the flowers. Can not thank you enough! Everyone needs to order from Blossom Box Co she is amazing and so helpful! Can't wait to buy again next time!"</em></p>]]></content:encoded>
+      <wp:post_name>testimonials</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>12</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/flower-care</link>
+      <title>Flower Care</title>
+      <pubDate>Tue, 09 Aug 2016 13:09:46 +0000</pubDate>
+      <content:encoded><![CDATA[<h3 class="text-align-center">Flowers on average lasts from 5 to 10 days depending on the flowers and surrounding conditions.</h3><h3 class="text-align-center">Our boxed arrangements are sitting in a floral foam. To get the most out of your Blossom Boxes you need to water them daily. To do this,&nbsp;simply part the flowers and pour water into the foam. This will ensure the flowers get a good drink so that they stay fresher for longer.</h3><h3 class="text-align-center">For fresh cut flowers always trim before putting into a vase with fresh clean water. If possible change the water daily and trim back the stem every second day.</h3><h3 class="text-align-center">It is preferable to keep flowers in a cool room.</h3>]]></content:encoded>
+      <wp:post_name>flower-care</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>13</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/acrylic-plinth-hire</link>
+      <title>Acrylic Plinth Hire</title>
+      <pubDate>Wed, 18 Jul 2018 14:17:01 +0000</pubDate>
+      <content:encoded><![CDATA[<img src="https://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/t/5b4f4ba4352f53acb95fff69/1531923419011/IMG_6726.jpg?format=original" alt=""/>
+  
+
+&nbsp;&nbsp;<p class="text-align-center"><strong>Pricelist</strong></p><p class="text-align-center">Round Plinths<br />1m x 0.7m x 1 $170<br />0.9m x 0.6m x 2 $150 each $250 set<br />0.6m x 0.5m x 2 $130 each $200 set<br />0.4m x 0.5m x 2 $110 each $170 set<br />Full set Special package $700 (Save $250)</p><p class="text-align-center">Square Plinths<br />1m x 0.5m x2 $150 each $250 set<br />0.9m x 0.45m x2 $130 each $200 set<br />0.7m x 0.4m x2 $110 each $170 set<br />0.4m x 0.35m x2 $90 each $130 set<br />Full set Special Package $700 (save $260)</p><p class="text-align-center">Can arrange delivery and pick up within 15km of CBD for $40.</p><p class="text-align-center">Alternatively pick up is available from Blossom Box Co which is 2/112<br />Prospect Road, Prospect SA 5082.</p><p class="text-align-center">$100 Cash Bond is payable and will be refunded on the return on undamaged plinths.</p><p class="text-align-center"><a href="/contact">Enquire here now</a></p>&nbsp;&nbsp;<div class="image-gallery-wrapper">
+
+  
+   <img src="https://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/5b4ee6be2b6a288ebc9cf809/5b4ee6bf2b6a288ebc9cf852/1531897594797/IMG_3888.JPG?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/5b4ee6be2b6a288ebc9cf809/5b4ee6bfaa4a99eb87a79a19/1531897598570/IMG_6551.jpg?format=original" />
+  
+
+</div>]]></content:encoded>
+      <wp:post_name>acrylic-plinth-hire</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>14</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/new-page</link>
+      <title>Cherry Blossom Tree Hire</title>
+      <pubDate>Mon, 22 Oct 2018 07:26:02 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;
+  
+      <img src="https://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/t/5b4f43162b6a288ebca68230/1531921247680/IMG_3724.jpg?format=original" alt=""/>
+  
+
+&nbsp;<p style="text-align: center; white-space: pre-wrap;">70cm trees $40 each (20 available)</p><p style="text-align: center; white-space: pre-wrap;">180cm trees $150 (4 available)</p><p style="text-align: center; white-space: pre-wrap;">200cm trees $200 (4 available)</p><p style="text-align: center; white-space: pre-wrap;">250cm trees $250 (2 available)</p><p style="text-align: center; white-space: pre-wrap;">300cm trees $300 (1 available)</p><p style="text-align: center; white-space: pre-wrap;">Delivery, set up and pick up within 15km of CBD is $60. Distances further than this will be quoted on request.</p><p style="text-align: center; white-space: pre-wrap;"><a href="https://www.blossomboxco.com.au/contact">Enquire here now</a></p>
+  
+      <img src="https://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/t/5b4f4d9e352f53acb96060d9/1531923912068/?format=original" alt=""/>
+  
+
+&nbsp;
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-black social-icons-size-small social-icons-style-regular " >
+  <nav class="sqs-svg-icon--list">
+    <a href="http://instagram.com/blossomboxco_" target="_blank" class="sqs-svg-icon--wrapper instagram">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-mask"></use>
+        </svg>
+      </div>
+    </a><a href="http://www.facebook.com/blossomboxco" target="_blank" class="sqs-svg-icon--wrapper facebook">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#facebook-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#facebook-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>&nbsp;]]></content:encoded>
+      <wp:post_name>new-page</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>15</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/new-page-1</link>
+      <title>New Page</title>
+      <pubDate>Wed, 09 Jan 2019 15:14:29 +0000</pubDate>
+      <content:encoded><![CDATA[<img src="https://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/t/5c360f18352f53f20c2c6dc1/1547046824109/IMG_1065.jpg?format=original" alt=""/>
+  
+
+<h1 style="white-space: pre-wrap;">Valentines 2019</h1><p style="white-space: pre-wrap;">Valentines falls on Thursday 14th February this year. Make sure you’re prepared this year and get her favourite Blossom Box flowers! </p><p style="white-space: pre-wrap;">Check our the range <a href="/valentines2019">here!</a></p>]]></content:encoded>
+      <wp:post_name>new-page-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>16</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/valentines</link>
+      <title>New Page</title>
+      <pubDate>Wed, 09 Jan 2019 15:27:45 +0000</pubDate>
+      <content:encoded><![CDATA[<img src="https://static1.squarespace.com/static/5733417c07eaa0f51dd1ee90/t/5c36106a898583d5696ff441/1547047069447/IMG_1065.jpg?format=original" alt=""/>
+  
+
+<h1 style="text-align: center; white-space: pre-wrap;">Valentine’s Day 2019</h1><p data-rte-preserve-empty="true" style="white-space: pre-wrap;"></p><p style="text-align: center; white-space: pre-wrap;"><strong>Valentine's Day</strong>, also called&nbsp;<strong>Saint Valentine's Day</strong>&nbsp;or the&nbsp;<strong>Feast of Saint Valentine</strong>,&nbsp;is celebrated annually on February 14th . Originating as a&nbsp;<a href="https://en.wikipedia.org/wiki/Western_Christianity" title="Western Christianity">Western</a>&nbsp;<a href="https://en.wikipedia.org/wiki/Christianity" title="Christianity">Christian</a>&nbsp;<a href="https://en.wikipedia.org/wiki/Feast_day" title="Feast day">feast day</a>&nbsp;honouring one or two early&nbsp;<a href="https://en.wikipedia.org/wiki/Saint" title="Saint">saints</a> named&nbsp;<a href="https://en.wikipedia.org/wiki/Saint_Valentine" title="Saint Valentine">Valentinus</a>, Valentine's Day is recognised as a significant cultural, religious, and commercial celebration of&nbsp;<a href="https://en.wikipedia.org/wiki/Romance_(love)" title="Romance (love)">romance</a>&nbsp;and romantic love in many regions around the world, although it is not a public holiday in any country.</p><p data-rte-preserve-empty="true" style="white-space: pre-wrap;"></p><p style="text-align: center; white-space: pre-wrap;">This year Valentine’s Day falls on Thursday February 14th. Make sure you’re prepared and order her favourite Blossom Box flowers. Cut off this year will be the Tuesday 12th February 2019. No more orders will be taken after this. Only in store purchases possible on the 13th and 14th February and whatever is available in the store. So please make sure you’re organised.</p><p data-rte-preserve-empty="true" style="white-space: pre-wrap;"></p><p style="text-align: center; white-space: pre-wrap;"><a href="/valentines2019">Check out the range here</a>!</p>]]></content:encoded>
+      <wp:post_name>valentines</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>17</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
